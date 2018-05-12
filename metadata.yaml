@@ -15,6 +15,8 @@ covers:
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23384#Gascoyne-the-Sandal-Wood-Trader
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
